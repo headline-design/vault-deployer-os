@@ -366,7 +366,7 @@ class App extends Component {
     return (
       <div align="center">
         <h1>Vault</h1>
-        <h2><i>An app of dubious uncertain utility (but version b is an improvement)</i></h2>
+        <h2><i>An app of great utility</i></h2>
         <table className="table" width="100%">
           <tbody>
             <tr><td>
